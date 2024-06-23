@@ -10,3 +10,4 @@ if [ -e $DELDIR ]
         else
                 echo 'Указанная дирректория не найдена!'
                 exit 2
+fi
